@@ -12,11 +12,11 @@
   <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Typhz/rendering-fox-threejs" />
 </h1>
 
+<!--- * [Screenshots](#-screenshots) -->
 
 ## Tabela de conteúdos
 
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Screenshots](#-screenshots)
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Tecnologias](#-tecnologias)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
@@ -25,9 +25,10 @@
 ## 💻 Sobre o projeto
 Esse projeto tem como intuito facilitar a vida de desenvolvedores criando a base de uma API REST.
 
+                                                                                                           
+<!---
 ## 📷 Screenshots
-<!--
-<img src="screenshots/fox.jpg" width="400" height="300"/>
+<img src="screenshots/fox.jpg" width="500" height="200"/>
 -->
 
 ## 🚀 Como executar o projeto
