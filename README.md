@@ -23,9 +23,7 @@
    * [Licença](#-licença)
 
 ## 💻 Sobre o projeto
-Esse projeto tem como intuito facilitar a vida de desenvolvedores criando a base de uma API REST.
-
-                                                                                                           
+Uma simples pagina renderizando uma raposa 3d utilizando ThreeJs e GLTFLoader                              
 <!---
 ## 📷 Screenshots
 <img src="screenshots/fox.jpg" width="500" height="200"/>
@@ -59,7 +57,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Todo tipo de contribuição é bem-vinda, nós admiramos isso!
 
-Tem algum problema? Encontrou um bug? Tem alguma dica? Abra uma [issue](https://github.com/Typhz/AuthAPI/issues) descrevendo.
+Tem algum problema? Encontrou um bug? Tem alguma dica? Abra uma [issue](https://github.com/Typhz/rendering-fox-threejs/issues) descrevendo.
 
 Quer contribuir com código? Pedimos que antes leia [este guia de contribuição](https://github.com/firstcontributions/first-contributions)
 
